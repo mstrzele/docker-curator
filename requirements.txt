@@ -1,0 +1,7 @@
+certifi==2017.11.5
+click==6.7
+elasticsearch==6.0.0
+elasticsearch-curator==5.4.0
+PyYAML==3.12
+urllib3==1.22
+voluptuous==0.10.5
