@@ -2,6 +2,6 @@ certifi==2017.11.5
 click==6.7
 elasticsearch==6.0.0
 elasticsearch-curator==5.4.0
-PyYAML==3.12
+PyYAML==5.1
 urllib3==1.24.2
 voluptuous==0.10.5
